@@ -46,7 +46,7 @@ contract UnownableNft is ERC721 {
     override
     returns (string memory)
   {
-   _requireOwned(tokenId);
+    _requireOwned(tokenId);
     return _tokenURI;
   }
 }
