@@ -5,7 +5,7 @@ async function main() {
   const contr = await ContractF.deploy(
     "Unownable NFT",
     "U0T",
-    "https://bafybeiejhrmqf3yoly4l6osquhb2qceoy73mqedkskashaupwsi2tk5hgq.ipfs.nectarnode.io/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaWQiOiJiYWZ5YmVpZWpocm1xZjN5b2x5NGw2b3NxdWhiMnFjZW95NzNtcWVka3NrYXNoYXVwd3NpMnRrNWhncSIsInByb2plY3RfdXVpZCI6ImFhZDliNmMxLTNiYzgtNDQ0YS1hZjQxLTM2ZTVlYjMwMDBmNyIsImlhdCI6MTcwNzE2NDMwOSwic3ViIjoiSVBGUy10b2tlbiJ9.OJ_HsFK8qIV5mS_xzMvvE4pypK4tknMZVHGXHl47xQg"
+    "https://bafybeidkz2mplwvtegay7jdzyojbd2iyolxqhzsib4outgkxbeurlptyti.ipfs.nectarnode.io/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaWQiOiJiYWZ5YmVpZGt6Mm1wbHd2dGVnYXk3amR6eW9qYmQyaXlvbHhxaHpzaWI0b3V0Z2t4YmV1cmxwdHl0aSIsInByb2plY3RfdXVpZCI6IjNkZDAzNTJhLWI4OWQtNGUxNC1iYTNkLTgxYjA2ZGQxMDJkMCIsImlhdCI6MTcwNzE2NTkxMiwic3ViIjoiSVBGUy10b2tlbiJ9.RI9wvZf_0IUf9WONddKWLVCVJVcKIEPUC8M16Z188lI"
   );
 
   await contr.deployed();
