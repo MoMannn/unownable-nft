@@ -2,7 +2,7 @@
 
 This repo contains smart contract for Unownable NFT. This is a part of discovering different ownership properties that humans put on things. It is part of [Miha Artnak's](https://themihaartnak.com/) exibit through which he shows 7 different art pieces each showcasing a distinct type of ownership.
 
-Smart contract address: https://polygonscan.com/address/0x1f22b4f1CEa1f8142b15A6C9a685F3c9e8937B7f
+Smart contract address: https://polygonscan.com/address/0x911B67ef816E6434781f101e6a52aC52fe9aC192
 
 ## About
 
